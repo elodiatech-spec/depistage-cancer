@@ -6,6 +6,7 @@ on:
       - pole-sante
     paths:
       - 'index.html'
+  workflow_dispatch:
 
 jobs:
   sync:
